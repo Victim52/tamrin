@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.one, .two {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+
+}
+
+.one {
+    color: whitesmoke;
+    background-color: black;
+}
+
+.two {
+color: #000;
+background-color: rgb(225, 255, 0);
+
+}
