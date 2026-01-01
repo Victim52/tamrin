@@ -1,0 +1,25 @@
+/* Add CSS Styling */
+
+.one {
+    color: #000;
+    background-color: rgb(242, 137, 113);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.three{
+    font-size: larger;
+}
+
+#hello {
+    color: rgb(0, 0, 240);
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#bye {
+    background-color: #6ffc03;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
